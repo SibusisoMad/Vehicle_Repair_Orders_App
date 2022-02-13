@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Vehicle_Repair_Orders_App": {
+      "commandName": "Project",
+      "commandLineArgs": "IsNewCustomer=true IsRushOrder=true IsLargeOrder=false OrderType=0"
+    }
+  }
+}
